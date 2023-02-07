@@ -1,6 +1,6 @@
 # Javascript-To-do-List
 
-#### Hello, This is a To-do-List project including below Javascript topics; 
+#### Hello, This is a To-do-List project including following Javascript topics; 
 
 ##### appendChild
 ##### addEventListener("click")
